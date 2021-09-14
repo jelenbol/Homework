@@ -5,6 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
 
+        //Assignment No 1.1
+
+
         // short NumberOne = 5;
         // short NumberTwo = 10;
 
@@ -17,8 +20,6 @@ public class Main {
 
         //    {
         //      System.out.println("Number Two is bigger than Number One");
-
-
         //   }
 
 
@@ -30,7 +31,6 @@ public class Main {
         // {
         //     System.out.println("Number One equals Number Two");
         //  }
-
         //      else {
         //      System.out.println("Number One is not equal Number Two");
         //}
@@ -58,7 +58,6 @@ public class Main {
         //      System.out.println("Number Two is negative");
         // }
 
-
         // short NumberOne = 101;
         //  short NumberTwo = 98;
 
@@ -69,6 +68,29 @@ public class Main {
         //     else
 
         //        System.out.println("There is number less than 100");
+
+
+        //Assignment No 1.2
+
+
+        // var time = 20;
+
+        // if (time < 12) {
+        //     System.out.println("Good morning, Sunshine!");
+        // }
+
+        // else if (time <=19 && time >=13) {
+        //   System.out.println("Good afternoon. Work hard!");
+
+        // }
+
+        // else if (time <=24 && time >=20) {
+        //    System.out.println("Good evening. Get some rest!");
+
+        //  }
+
+
+        //  int time = -2
 
 
     }
