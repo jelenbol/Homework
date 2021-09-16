@@ -1,5 +1,8 @@
 package com.company;
 
+import java.util.Scanner;
+
+
 public class Main {
 
     public static void main(String[] args) {
@@ -91,6 +94,45 @@ public class Main {
 
 
         //  int time = -2
+
+
+        //Assignment No 1.3
+
+        ///Just testing, I know it is not correct solution to this task
+
+
+        //  var day = 1;
+        // var month = 12;
+
+
+        //  if (day <=31)
+
+        //  {
+        //     System.out.println("valid day");
+        //   }
+
+        // else {
+        //     System.out.println("please enter valid day");
+        //  }
+
+        //if (month <=12)
+
+        //{
+        //    System.out.println("valid month");
+        //}
+
+        // else
+        //  {
+        //     System.out.println("please enter valid month");
+        //  }
+        //
+
+
+        Scanner date = new Scanner(System.in);
+
+        {
+            System.out.println("Please enter date");
+        }
 
 
     }
